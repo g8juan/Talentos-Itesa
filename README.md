@@ -1,4 +1,4 @@
-El proyecto consiste en la creación de un portal para centralizar toda la información relevante para los perfiles que trabajan en proyectos freelance con Itesa.  Cada talento que trabaje con Itesa deberá crearse una cuenta en esta plataforma para poder cargar sus datos personales, bancarios, firmar contratos de confidencialidad, aceptar propuestas laborales de Itesa, firmar contratos temporales, ver detalle de todos sus proyectos y seguimiento de los pagos. Desde Itesa, se podrá enviar propuestas laborales a los perfiles, cargar pagos, dar de alta perfiles, etc. 
+Talentos Itesa consiste en un portal para centralizar toda la información relevante para los perfiles que trabajan en proyectos freelance con Itesa.  Cada talento que trabaje con Itesa deberá crearse una cuenta en esta plataforma para poder cargar sus datos personales, bancarios, firmar contratos de confidencialidad, aceptar propuestas laborales de Itesa, firmar contratos temporales, ver detalle de todos sus proyectos y seguimiento de los pagos. Desde Itesa, se podrá enviar propuestas laborales a los perfiles, cargar pagos, dar de alta perfiles, etc. 
 
 # Features: 
 ## Rol admin:
